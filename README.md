@@ -1,4 +1,4 @@
-# Awesome Heroku [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Heroku [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1115457144.svg)](https://doi.org/10.5281/zenodo.19673377)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -129,11 +129,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Cloud](https://github.com/awesomelistsio/awesome-cloud)
-- [Awesome SaaS](https://github.com/awesomelistsio/awesome-saas)
-- [Awesome Rails](https://github.com/awesomelistsio/awesome-rails)
-- [Awesome Flask](https://github.com/awesomelistsio/awesome-flask)
-- [Awesome Docker](https://github.com/awesomelistsio/awesome-docker)
+- [Awesome Cloud](https://github.com/brandonhimpfen/awesome-cloud)
+- [Awesome SaaS](https://github.com/brandonhimpfen/awesome-saas)
+- [Awesome Rails](https://github.com/brandonhimpfen/awesome-rails)
+- [Awesome Flask](https://github.com/brandonhimpfen/awesome-flask)
+- [Awesome Docker](https://github.com/brandonhimpfen/awesome-docker)
 
 ## Contribute
 
